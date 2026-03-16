@@ -8,7 +8,7 @@
 
 
 3) 개발환경
- OS: ubuntu 22.04
+ OS: ubuntu 22.04 LTS
  ROS 2 Humble
  Simulator: F1tenth Simulator
  언어:C++
